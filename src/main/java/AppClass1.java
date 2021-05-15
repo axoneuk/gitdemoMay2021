@@ -6,7 +6,4 @@ public class AppClass1 {
         System.out.println("Hello World 1");
     }
 
-    public void doSomething(){
-        System.out.println("doing something");
-    }
 }
